@@ -1,0 +1,4 @@
+#!/home/alice_sitedge/PycharmProjects/HW2/venv/bin/python
+from commander.main import main
+
+main()
